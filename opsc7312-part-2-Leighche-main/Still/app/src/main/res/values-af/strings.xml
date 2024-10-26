@@ -1,0 +1,14 @@
+<!-- Afrikaans -->
+<resources>
+    <string name="app_name">Stil</string>
+    <string name="login_username">Gebruikersnaam</string>
+    <string name="login_password">Wagwoord</string>
+    <string name="btn_login">VOLGENDE</string>
+    <string name="redirect_signup">Het jy nie \'n rekening nie? Skep een hier</string>
+    <string name="slogan">Stilte. Kalmte. Klank</string>
+    <string name="fingerprint_auth_title">Vingerafdruk Verifikasie</string>
+    <string name="fingerprint_auth_subtitle">Teken in met jou vingerafdruk</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="login">AANMELD</string>
+</resources>
+

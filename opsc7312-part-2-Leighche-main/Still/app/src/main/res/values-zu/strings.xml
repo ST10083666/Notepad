@@ -1,0 +1,14 @@
+<!-- ZULU -->
+<resources>
+    <string name="app_name">Thula</string>
+    <string name="login_username">Igama lomsebenzisi</string>
+    <string name="login_password">Iphasiwedi</string>
+    <string name="btn_login">OKULANDELAYO</string>
+    <string name="redirect_signup">Awunayo i-akhawunti? Yenza eyakho lapha</string>
+    <string name="slogan">Ukuthula. Ukuzola. Umsindo</string>
+    <string name="fingerprint_auth_title">Ukubona Umnwe</string>
+    <string name="fingerprint_auth_subtitle">Ngena ngemvume usebenzisa umnwe wakho</string>
+    <string name="cancel">Khansela</string>
+    <string name="login">NGENA NGEMVUME</string>
+</resources>
+

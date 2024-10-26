@@ -1,0 +1,14 @@
+<!-- ENGLISH -->
+<resources>
+    <string name="app_name">Still</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="btn_login">NEXT</string>
+    <string name="redirect_signup">Don\'t have an account? Create one here</string>
+    <string name="slogan">Stillness. Serenity. Sound</string>
+    <string name="fingerprint_auth_title">Fingerprint Authentication</string>
+    <string name="fingerprint_auth_subtitle">Log in using your fingerprint</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">LOGIN</string>
+</resources>
+

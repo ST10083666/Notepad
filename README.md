@@ -210,16 +210,13 @@ In the Still app, we use an API to fetch calming songs and soundscapes that enha
    git clone https://github.com/InvestIQ/still.git
    ```
   
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Start the application:
-   ```
-   npm start
-   ```
+2. Open the application within Android Studio
+  
+3. Connect your mobile device to your computer - wirelessly or wired by following the prompts on screen (optional if you want to use the application on your mobile device)
 
----
+4. Start the application by clicking the green triangle
+
+5. Enjoy the Stillness!
 
 ## Screenshots
 <table>

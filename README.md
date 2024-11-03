@@ -138,16 +138,18 @@ Take a break and relax with mini-games designed to entertain and de-stress:
 *(Calm, 2024; Google Play Store, 2024; Jackson, 2022; Labib, 2021; Tartakovsky et al., 2022)*
 
 ### Offline Mode with Sync
-- Allow users to perform certain actions offline with data syncing when reconnected.
-- Use **RoomDB** or **SQLite** for offline storage.
+- Allow users to saved notes while offline with the notes syncing when reconnected.
 *(Bell et al., 2024; Calm, 2024; Google Play Store, 2024; Jackson, 2022; Labib, 2021; Tartakovsky et al., 2022)*
 
 ### Real-time Notifications
-- Implement a push notification system for real-time updates and alerts.
+- The user is recommended an action in their notification center after they have filled out the mood tracker.
 *(Tartakovsky et al., 2022; Tartakovsky, 2022)*
 
 ### Multi-language Support
-- Support at least 2 South African languages in addition to English.
+- Support the following languages
+   1. English
+   2. Afrikaans
+   3. Zulu
 *(Bell et al., 2024; Calm, 2024)*
 
 <img src="https://github.com/user-attachments/assets/03e57abe-fbce-407c-bb0d-857729814442" width="300px" />

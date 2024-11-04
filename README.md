@@ -86,7 +86,8 @@ Our team used CircleCI and SonarQube along with GitHub Actions to automate check
 *(GitHub, 2024)*.
 
 ## Release Notes
-
+### Updates: 
+1. Multi-language support: Still now supports 2 languages in addition to English, those being 
 
 
 ## Main Features

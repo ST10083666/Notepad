@@ -7,18 +7,22 @@
 ## 🔵 Table of Contents
 1. [Overview](#overview)
 2. [Team Members](#team-members)
-3. [Main Features](#main-features)
+3. [Purpose of the App](#purpose-of-the-app)
+4. [Design Considerations](#design-considerations)
+5. [GitHub and GitHub Actions](#github-and-github-actions)
+6. [Release Notes](#release-notes)
+7. [Main Features](#main-features)
    - [Focus](#focus)
    - [Meditate](#meditate)
    - [Wind Down](#wind-down)
    - [Breathe](#breathe)
-4. [Additional Features](#additional-features)
+8. [Additional Features](#additional-features)
    - [Notepad](#notepad)
    - [Charging Animations - Lightbulb](#charging-animations---lightbulb)
    - [Mood Tracker](#mood-tracker)
    - [Arcade Space](#arcade-space)
    - [Chat with Serena](#chat-with-serena)
-5. [Requirements](#requirements)
+9. [Requirements](#requirements)
    - [Registration and Login](#registration-and-login)
    - [Biometric Authentication](#biometric-authentication)
    - [Settings Customization](#settings-customization)
@@ -26,15 +30,15 @@
    - [Offline mode with sync](#offline-mode-with-sync)
    - [Real time notifications](#real-time-notifications)
    - [Multi-Language Support](#multi-language-support)
-6. [SSO](#sso)
-7. [In Depth Analyses of Serena-AI](#in-depth-analyses-of-serena-ai)
-8. [Serenity API](#serenity-api)
-9. [Installation](#installation)
-10. [Screenshots](#screenshots)
-11. [Demo Video](#demo-video)
-12. [License](#license)
-13. [Contact](#contact)
-14. [References](#references)
+10. [SSO](#sso)
+11. [In Depth Analyses of Serena-AI](#in-depth-analyses-of-serena-ai)
+12. [Serenity API](#serenity-api)
+13. [Installation](#installation)
+14. [Screenshots](#screenshots)
+15. [Demo Video](#demo-video)
+16. [License](#license)
+17. [Contact](#contact)
+18. [References](#references)
 
 ## Overview
 
@@ -336,6 +340,8 @@ Neumann, K. 2024. Calm App Review, 4 July 2024. [Online]. Available at: https://
 OpenAI. 2024. API Deployment Request, 28 September 2024.[Online]. Available at: https://chatgpt.com/c/66f2f102-6100-8013-a142-3f4b7b66d7b5 [Accessed 28 September 2024].
 
 OpenAI. 2024. JSON Object, 29 September 2024.[Online]. Available at: https://chatgpt.com/share/66fa87e1-c77c-8005-b50d-c2c441854ab0 [Accessed 29 September 2024].
+
+OpenAI. 2024. Multilingual XML Layout Support, 3 November 2024. [Online]. Available at: https://chatgpt.com/share/67287ea8-8780-8002-8126-92eed269d09d [Accessed 3 November 2024].
 
 Pichai, S. 2023. Introducing Gemini: our largest and most capable AI model, 06 December 2023. [Online]. Available at: https://blog.google/technology/ai/google-gemini-ai/ [Accessed 19 August 2024]. 
  

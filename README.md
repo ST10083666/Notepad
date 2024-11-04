@@ -63,6 +63,11 @@ Whether you're seeking to reduce stress, improve focus, or cultivate a deeper se
 
 Still aims to bring peace, focus and inner peace to a broader consumer base, and to enable the public to have better mental health. 
 
+## Design Considerations
+In terms of the UI, we have chosen to go with a dark blue and yellow colour scheme with an occassional pop of colour.
+We chose the dark blue colour as it creates a sense of calmness and peace for the user, which is sort of atmosphere that this application aims to provide for it's users. Yellow was used as it often associated with positive emotions, which is the sort of emotions that Still aims to invoke in it's users. 
+The occassional pop of colour has been added to ensure that the app is not extremely monotonous
+
 ## GitHub and GitHub Actions
 GitHub is used to store and share code with others, while GitHub Actions provides a continuous integration and continuous delivery (CI/CD) platform for developers to test their code and automate those tests 
 *(GitHub, 2024)*.
@@ -72,6 +77,10 @@ Our team used GitHub to safely store our code, so team members have access to th
 
 Our team used CircleCI and SonarQube along with GitHub Actions to automate checking our code for any vulnerablities and to test the code to ensure that it works not only on the developer's machines but on users' devices as well 
 *(GitHub, 2024)*.
+
+## Release Notes
+
+
 
 ## Main Features
 
@@ -290,15 +299,35 @@ In the Still app, we use an API to fetch calming songs and soundscapes that enha
       </tr>
   <tr>
      <td>
-      <img src="" width="200" />
-      <p>This screen allows a user to save a note.</p>
+      <img src="https://github.com/user-attachments/assets/8cb5cbef-e200-4d18-ba51-e0aff5c87e27" width="200" />
+      <p>This screen displays the buttons in Zulu (multi-language support).</p>
     </td>
      <td>
       <img src="https://github.com/user-attachments/assets/2a6e9dea-2437-4221-afa9-9f0ff2b28c5e" width="200" />
       <p>This is the realtime notification that will pop up after the user saves a note.</p>
     </td>
   </tr>
-   
+    <tr>
+     <td>
+      <img src="https://github.com/user-attachments/assets/14145f5c-d57f-4b92-be2a-9f2d0c01d650" width="200" />
+      <p>This screen allows a user to view all their notes.</p>
+    </td>
+     <td>
+      <img src="https://github.com/user-attachments/assets/9a1b0d30-826b-460b-9b31-e50c664608cc" width="200" />
+      <p>This screen allows a user to view one of their notes and edit it.</p>
+    </td>
+  </tr>
+      <tr>
+     <td>
+      <img src="https://github.com/user-attachments/assets/2d2fcc6b-1c48-4df8-a74b-1c4159c42323" width="200" />
+      <p>This screen allows a user to save a new note.</p>
+    </td>
+     <td>
+      <img src="https://github.com/user-attachments/assets/c77bc09c-5d2e-4c23-9356-d102bc055aea" width="200" />
+      <p>This screen allows the user to change the language of the app in Settings.</p>
+    </td>
+  </tr>
+      
 </table>
 
 ---

@@ -44,8 +44,6 @@
 
 **Still** is a meditation and mindfulness app designed to help you find an idyllic space within yourself. The app offers a diverse range of guided meditations, soothing soundscapes, and mindfulness exercises tailored for both beginners and experienced practitioners. With a comforting, user-friendly interface, Still makes it easy to find your calm and peace.
 
-Whether you're seeking to reduce stress, improve focus, or cultivate a deeper sense of inner peace, Still is your perfect companion on the journey to a calmer, more centered you.
-
 *(Bell & Troy, 2024; Tartakovsky & Pedersen, 2022)*
 
 ---
@@ -58,6 +56,11 @@ Whether you're seeking to reduce stress, improve focus, or cultivate a deeper se
 - Vikhayle (Full-Stack developer)
 
 ---
+
+## Purpose of the App 
+Whether you're seeking to reduce stress, improve focus, or cultivate a deeper sense of inner peace, Still is your perfect companion on the journey to a calmer, more centered you. In relation to other similar apps on the market, Still is a competitive app as unlike other mindfulness application currently available on the market (such as Calm, HeadSpace and Forest), all features of the application are completely free, which allows for more people (who may not have the oppurtunity to use subscription based mindfulness applications) to access mindfulness content. 
+
+Still aims to bring peace, focus and inner peace to a broader consumer base, and to enable the public to have better mental health. 
 
 ## Main Features
 

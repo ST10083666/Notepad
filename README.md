@@ -58,9 +58,20 @@
 ---
 
 ## Purpose of the App 
-Whether you're seeking to reduce stress, improve focus, or cultivate a deeper sense of inner peace, Still is your perfect companion on the journey to a calmer, more centered you. In relation to other similar apps on the market, Still is a competitive app as unlike other mindfulness application currently available on the market (such as Calm, HeadSpace and Forest), all features of the application are completely free, which allows for more people (who may not have the oppurtunity to use subscription based mindfulness applications) to access mindfulness content. 
+Whether you're seeking to reduce stress, improve focus, or cultivate a deeper sense of inner peace, Still is your perfect companion on the journey to a calmer, more centered you. In relation to other similar apps on the market, Still is a competitive app as unlike other mindfulness application currently available on the market (such as Calm, HeadSpace and Forest), all features of the application are completely free, which allows for more people (who may not have the oppurtunity to use subscription based mindfulness applications) to access mindfulness content 
+*(Jackson, 2022; Labib, 2021; Tartakovsky et al., 2022)*.
 
 Still aims to bring peace, focus and inner peace to a broader consumer base, and to enable the public to have better mental health. 
+
+## GitHub and GitHub Actions
+GitHub is used to store and share code with others, while GitHub Actions provides a continuous integration and continuous delivery (CI/CD) platform for developers to test their code and automate those tests 
+*(GitHub, 2024)*.
+
+Our team used GitHub to safely store our code, so team members have access to the most recent code and in the event of anything going wrong during development, it was guaranteed that we would have a working version to roll back to; furthermore, it allowed for collaboration as various developers could commit to different branches, while working on different features, ensuring that they do not get in each other's way during development
+*(GitHub, 2024)*.
+
+Our team used CircleCI and SonarQube along with GitHub Actions to automate checking our code for any vulnerablities and to test the code to ensure that it works not only on the developer's machines but on users' devices as well 
+*(GitHub, 2024)*.
 
 ## Main Features
 
@@ -276,7 +287,18 @@ In the Still app, we use an API to fetch calming songs and soundscapes that enha
       <img src="https://github.com/user-attachments/assets/309e5f4a-4f37-4e5e-b569-f4c0a84e1cd1" width="200" />
       <p>This screen allows the user to interact with Serena-AI.</p>
     </td>
+      </tr>
+  <tr>
+     <td>
+      <img src="" width="200" />
+      <p>This screen allows a user to save a note.</p>
+    </td>
+     <td>
+      <img src="https://github.com/user-attachments/assets/2a6e9dea-2437-4221-afa9-9f0ff2b28c5e" width="200" />
+      <p>This is the realtime notification that will pop up after the user saves a note.</p>
+    </td>
   </tr>
+   
 </table>
 
 ---
@@ -324,6 +346,10 @@ Combs, M. 2021. This Timer App Is the Answer to Your Focus Woes, 12 August 2021.
 Dalai Lama. 1998. The Art of Happiness Synopsis, October 26, 1998. [Online]. Available at:  https://www.goodreads.com/book/show/38210.The_Art_of_Happiness [Accessed 15 August 2024].
 
 Frania, N. 2024. How to Use Check-Ins, 19 April 2024. [Online]. Available at: https://support.calm.com/hc/en-us/articles/9699990936731-How-to-Use-Check-Ins [Accessed 19 August 2024]. 
+
+GitHub. 2024. About GitHub and Git, 2024. [Online]. Available at: https://docs.github.com/en/get-started/start-your-journey/about-github-and-git [Accessed 4 November 2024].
+
+GitHub. 2024. Understanding GitHub Actions, 2024. [Online]. Available at: https://docs.github.com/en/actions/about-github-actions/understanding-github-actions [Accessed 4 November 2024]. 
 
 Google Play Store, 2024. Calm App, 2024. [Online]. Available at: https://play.google.com/store/apps/details?id=com.calm.android&pli=1 [Accessed 7 August 2024].
 Grennan, M. 2024. Calm Journals, April 2024. [Online]. Available at: https://support.calm.com/hc/en-us/articles/360002773093-Calm-Journals [Accessed 19 August 2024]. 

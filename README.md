@@ -66,7 +66,7 @@ Still aims to bring peace, focus and inner peace to a broader consumer base, and
 ## Design Considerations
 In terms of the UI, we have chosen to go with a dark blue and yellow colour scheme with an occassional pop of colour.
 We chose the dark blue colour as it creates a sense of calmness and peace for the user, which is sort of atmosphere that this application aims to provide for it's users. Yellow was used as it often associated with positive emotions, which is the sort of emotions that Still aims to invoke in it's users. 
-The occassional pop of colour has been added to ensure that the app is not extremely monotonous
+The occassional pop of colour has been added to ensure that the app is not extremely monochromatic to ensure that the user does not get bored of seeing the same 2 colours throughout the app. 
 
 ## GitHub and GitHub Actions
 GitHub is used to store and share code with others, while GitHub Actions provides a continuous integration and continuous delivery (CI/CD) platform for developers to test their code and automate those tests 
